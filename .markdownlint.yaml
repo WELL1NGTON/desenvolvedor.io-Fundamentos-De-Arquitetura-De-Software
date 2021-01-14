@@ -1,0 +1,11 @@
+# MD013
+line-length: false
+
+# MD041
+first-line-heading: false
+
+code-block-style:
+    style: fenced
+
+no-inline-html:
+    allowed_elements: [br]
