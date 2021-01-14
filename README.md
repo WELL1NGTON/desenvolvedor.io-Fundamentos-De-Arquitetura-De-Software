@@ -255,6 +255,24 @@ You Ain't Gonna Need It
 
 ---
 
+## Links
+
+[01 - TOGAF - Framework de Arquitetura](https://www.opengroup.org/togaf)
+
+[02 - ISO 42010:2011](https://www.iso.org/standard/50508.html)
+
+[03 - MS Architect Journal](https://docs.microsoft.com/en-us/previous-versions/cc505968(v=msdn.10))
+
+[04 - IASA - Architects Association](https://iasaglobal.org/)
+
+[05 - Zachman - Enterprise Architecture](https://www.zachman.com/)
+
+[06 - BPMN - Business Process Model and Notation](http://www.bpmn.org/)
+
+[07 - Catalogo Web de Design Patterns](https://www.dofactory.com/net/design-patterns)
+
+---
+
 ---
 
 ---
